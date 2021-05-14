@@ -1,0 +1,11 @@
+{
+    "name": "pau7rr/api-clients",
+    "description": "Api de clients generats amb faker",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pau7rr\\api-clients\\": "src/"
+        }
+    }
+}
